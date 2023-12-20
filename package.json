@@ -1,0 +1,8 @@
+{
+  "name": "bot_dolce_code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DevErmak/bot_dolce_code.git",
+  "author": "DevErmak <o.khasanov.dev@gmail.com>",
+  "license": "MIT"
+}
